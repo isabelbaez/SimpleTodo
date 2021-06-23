@@ -20,7 +20,7 @@ The following **bonus** features are implemented:
 
 The following **additional** features are implemented:
 
-* [x] States error message when trying to add empty item.
+* [x] User cannot **add empty item to list** and error message is displayed to state so.
 
 ## Video Walkthrough
 
@@ -37,7 +37,7 @@ I accidentally forgot to add the "loaditems()" at the beginning of the Main Acti
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Isabel Báez]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
