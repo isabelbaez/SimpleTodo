@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
         etItem = findViewById(R.id.etitem);
         rvItems = findViewById(R.id.rvitems);
 
-        items = new ArrayList<>();
+        loadItems();
 
         ItemsAdapter.OnLongClickListener onLongClickListener = new ItemsAdapter.OnLongClickListener() {
             @Override
