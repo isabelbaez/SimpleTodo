@@ -32,7 +32,8 @@ GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The empty message was tough, but I then realized I was comparing instances of an empty string instead of the object itself. 
+I accidentally forgot to add the "loaditems()" at the beginning of the Main Activity page and had to fix that through an additional commit.
 
 ## License
 
